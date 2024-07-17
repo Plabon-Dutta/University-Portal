@@ -21,7 +21,3 @@ Critical challenges that we have faced while implementing our systems are afford
 7. Conflicting requirement: 
 
 Users updating their profile Vs. login information.
-
-8. YouTube link of project demonstration:
-
-https://youtu.be/vak_CTGr-7M
